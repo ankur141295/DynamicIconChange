@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DynamicIconChange</string>
+    <string name="change_to_green_icon">Change to Green Icon</string>
+    <string name="change_to_cyan_icon">Change to Cyan Icon</string>
 </resources>
