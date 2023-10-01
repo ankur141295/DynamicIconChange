@@ -8,4 +8,4 @@
 
 # Preview
 
-<img src="docs/green_color_app_icon.png" alt="Green App Icon" width="50%"><img src="docs/cyan_color_app_icon.png" alt="Cyan App Icon"width="50%">
+<img src="docs/green_color_app_icon.png" alt="Green App Icon" width="50%"><img src="docs/cyan_color_app_icon.png" alt="Cyan App Icon" width="50%">
