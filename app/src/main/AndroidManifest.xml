@@ -28,7 +28,7 @@
             android:enabled="true"
             android:exported="true"
             android:icon="@mipmap/ic_launcher"
-            android:label="GREEN"
+            android:label="@string/app_name"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -43,7 +43,7 @@
             android:enabled="false"
             android:exported="true"
             android:icon="@mipmap/ic_launcher_cyan"
-            android:label="CYAN"
+            android:label="@string/app_name"
             android:targetActivity=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
